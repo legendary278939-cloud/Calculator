@@ -9,6 +9,14 @@ A Python Tkinter-based Calculator application featuring a graphical user interfa
 - Automatic saving of calculation history
 - Standard arithmetic operations including addition, subtraction, multiplication, division, and percentages
 
+## Screenshots
+
+## Screenshots
+
+| Light Mode | Dark Mode |
+| :---: | :---: |
+| ![Light Mode](./calculator-light-mode.png) | ![Dark Mode](./calculator-dark-mode.png) |
+
 ## Technologies Used
 - Python (Core Programming Language)
 - Tkinter (Graphical User Interface Library)
